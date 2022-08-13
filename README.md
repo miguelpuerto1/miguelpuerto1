@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Puerto</h1>
+<h1 align="center">Hi 👋 I'm Miguel Puerto</h1>
 <h3 align="center">A passionate frontend developer from Florida</h3>
 
 - 🔭 I’m currently working on [Form-practice](https://github.com/miguelpuerto1/login-registration-form)
