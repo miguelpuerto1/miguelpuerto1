@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Miguel Puerto</h1>
 <h3 align="center">A passionate frontend developer from Florida</h3>
 
-- 🔭 I’m currently working on [Creating commonly used forms](https://github.com/miguelpuerto1/login-registration-form)
+- 🔭 I’m currently working on [Form-practice](https://github.com/miguelpuerto1/login-registration-form)
 
 - 🌱 I’m currently learning **Python, React, AWS**
 
 - 👨‍💻 All of my projects are available at [https://friendly-hamster-2f90a8.netlify.app](https://friendly-hamster-2f90a8.netlify.app)
 
-- 📫 How to reach me **Miguel Puerto**
+- 📫 How to reach me **Miguelp3024@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/14bsCJdYqFUfI-gYjYXFQbmle5mSlouICoKIGK13eZwQ/edit?usp=sharing](https://docs.google.com/document/d/14bsCJdYqFUfI-gYjYXFQbmle5mSlouICoKIGK13eZwQ/edit?usp=sharing)
 
