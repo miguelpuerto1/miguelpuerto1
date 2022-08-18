@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My portfolio is available at (https://harmonious-figolla-740226.netlify.app/)
+- 👨‍💻 My portfolio is available at https://harmonious-figolla-740226.netlify.app/
 
 - 📫 How to reach me **Miguelp3024@gmail.com**
 
