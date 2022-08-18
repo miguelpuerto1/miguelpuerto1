@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Form-practice](https://github.com/miguelpuerto1/login-registration-form)
 
-- 🌱 I’m currently learning **Python, React, AWS**
+- 🌱 I’m currently learning **React, AWS**
 
 - 👨‍💻 My portfolio is available at [https://friendly-hamster-2f90a8.netlify.app](https://friendly-hamster-2f90a8.netlify.app)
 
