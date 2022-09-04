@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, AWS**
 
-- 👨‍💻 All of my projects are available at [https://friendly-hamster-2f90a8.netlify.app](https://friendly-hamster-2f90a8.netlify.app)
+- 👨‍💻 All of my projects are available at [https://harmonious-figolla-740226.netlify.app/)
 
 - 📫 How to reach me **Miguelp3024@gmail.com**
 
