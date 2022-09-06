@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, AWS**
 
-- 👨‍💻 All of my projects are available at https://harmonious-figolla-740226.netlify.app/
-
 - 📫 How to reach me **Miguelp3024@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/14bsCJdYqFUfI-gYjYXFQbmle5mSlouICoKIGK13eZwQ/edit?usp=sharing](https://docs.google.com/document/d/14bsCJdYqFUfI-gYjYXFQbmle5mSlouICoKIGK13eZwQ/edit?usp=sharing)
